@@ -1,5 +1,5 @@
 # 💫 About Me:
-✍️Currently working on "Video Tube" MERN project<br/>🔭 Former Web Developer at ITBee Solutions, Achintya Solutions<br>🤝 I’m looking for help with NOTHING !!!<br>🌱 I’m currently learning ExpressJS<br>💬 Ask me about anything<br>⚡ Fun fact I don't really like coding haha. But you gotta do what you gotta do !
+🔭 Former Web Developer at ITBee Solutions, Achintya Solutions<br>🤝 I’m looking for help with NOTHING !!!<br>🌱 I’m currently learning ExpressJS<br>💬 Ask me about anything<br>⚡ Fun fact I don't really like coding haha. But you gotta do what you gotta do !
 
 
 ## 🌐 Socials:
