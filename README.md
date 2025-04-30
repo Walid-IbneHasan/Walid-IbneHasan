@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Former Web Developer at ITBee Solutions, Achintya Solutions<br>🤝 I’m looking for help with NOTHING !!!<br>🌱 I’m currently learning ExpressJS<br>💬 Ask me about anything<br>⚡ Fun fact I don't really like coding haha. But you gotta do what you gotta do !
+🔭 Software Engineer at Zero Byte<br>🤝 I’m looking for help with NOTHING !!!<br>🌱 I’m currently learning ML<br>💬 Ask me about anything<br>⚡ Fun fact I don't really like coding haha. But you gotta do what you gotta do !
 
 
 ## 🌐 Socials:
